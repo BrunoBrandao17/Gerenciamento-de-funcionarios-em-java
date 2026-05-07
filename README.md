@@ -27,5 +27,11 @@ O projeto segue uma estrutura organizada e desacoplada:
 * **Services:** Lógica de negócio e integração com segurança.
 * **Repositories:** Abstração da camada de dados com MySQL.
 * **Exception Handling:** Tratamento global de conflitos (ex: e-mail duplicado) e erros de validação.
-  
-Desenvolvido por **Bruno Machado Brandão** 🚀
+
+## ⚙️ Como Executar
+
+Clonar o Repositório
+Configure o banco de dados no application.properties
+Configurar o Banco de Dados (CREATE DATABASE gerenciamentoFuncionarios;)
+Executar: mvn spring-boot:run
+Desenvolvido por Bruno Machado Brandão 📩Brunomachad17@gmail.com 🚀
