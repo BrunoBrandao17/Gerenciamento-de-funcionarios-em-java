@@ -34,5 +34,5 @@ O projeto segue uma estrutura organizada e desacoplada:
 2. Configure o banco de dados no application.properties
 3. Configurar o Banco de Dados (CREATE DATABASE gerenciamentoFuncionarios;)
 4. executar: mvn spring-boot:run
-5. 
+ 
 Desenvolvido por Bruno Machado Brandão 📩Brunomachad17@gmail.com 🚀
